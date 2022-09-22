@@ -1,0 +1,85 @@
+.Nav-ul li {
+  display: inline;
+  padding: 20px;
+}
+
+.Nav-ul li a {
+  padding: 5px;
+  color: #fff;
+  text-decoration: none;
+}
+.Nav-ul {
+  /* padding: 15px; */
+  margin: 0;
+  background-color: #2874f0;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  /* text-align: center; */
+  width: 100%;
+  background-color: #2874f0;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.signup {
+  display: block;
+  width: 30%;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 40px;
+}
+/* .Nav-right{
+  text-align: right;
+} */
+.Nav-u_l {
+  /* padding: 15px; */
+  margin: 0;
+  background-color: #2874f0;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Nav-u_l li a {
+  padding: 5px;
+  color: #fff;
+  text-decoration: none;
+}
+.Nav-u_l li {
+  display: inline;
+  padding: 20px;
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 60px;
+}
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+.product-list ul {
+  margin: 0;
+}
+.product-list ul li {
+  display: inline-block;
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #2874f0;
+}
+.search-product-box {
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px solid #2874f0;
+  padding-left: 20px;
+}
